@@ -46,7 +46,8 @@ class Practice5 {
 				System.out.println("result = " + Math.log(num));
 				break;
 				
+				}
 			}
 		}
-		}
 	}
+}
